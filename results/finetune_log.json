@@ -1,0 +1,84 @@
+{
+ "ED_d": {
+  "model": "sentence-transformers/all-MiniLM-L12-v2",
+  "epochs": [
+   {
+    "epoch": 1,
+    "valid_acc": 0.1997110870350307,
+    "minutes": 102.95833274126053
+   },
+   {
+    "epoch": 2,
+    "valid_acc": 0.21054532322137956,
+    "minutes": 116.750483751297
+   }
+  ],
+  "best_valid": 0.21054532322137956,
+  "test_acc": 0.18884962701217117,
+  "n_train": 19531
+ },
+ "ED_q": {
+  "model": "sentence-transformers/all-MiniLM-L12-v2",
+  "epochs": [
+   {
+    "epoch": 1,
+    "valid_acc": 0.38244853737811485,
+    "minutes": 18.10274893840154
+   },
+   {
+    "epoch": 2,
+    "valid_acc": 0.40736728060671723,
+    "minutes": 147.47386547724406
+   }
+  ],
+  "best_valid": 0.40736728060671723,
+  "test_acc": 0.38790734197094623,
+  "n_train": 19531
+ },
+ "ESConv_d": {
+  "model": "sentence-transformers/all-MiniLM-L12-v2",
+  "epochs": [
+   {
+    "epoch": 1,
+    "valid_acc": 0.25190839694656486,
+    "minutes": 0.41162377993265786
+   },
+   {
+    "epoch": 2,
+    "valid_acc": 0.25190839694656486,
+    "minutes": 0.8604681690533956
+   },
+   {
+    "epoch": 3,
+    "valid_acc": 0.25190839694656486,
+    "minutes": 1.2768226782480876
+   }
+  ],
+  "best_valid": 0.25190839694656486,
+  "test_acc": 0.27307692307692305,
+  "n_train": 909
+ },
+ "ESConv_q": {
+  "model": "sentence-transformers/all-MiniLM-L12-v2",
+  "epochs": [
+   {
+    "epoch": 1,
+    "valid_acc": 0.25190839694656486,
+    "minutes": 0.5273918708165487
+   },
+   {
+    "epoch": 2,
+    "valid_acc": 0.25190839694656486,
+    "minutes": 1.1724295417467754
+   },
+   {
+    "epoch": 3,
+    "valid_acc": 0.25190839694656486,
+    "minutes": 1.764536440372467
+   }
+  ],
+  "best_valid": 0.25190839694656486,
+  "test_acc": 0.27307692307692305,
+  "n_train": 909
+ }
+}
