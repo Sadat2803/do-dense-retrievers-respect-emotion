@@ -1,0 +1,12 @@
+{
+  "title": "Do Dense Retrievers Respect Emotion? Code and results",
+  "description": "Code, selected hyper-parameters, metrics, p-values and per-query results for the paper \"Do Dense Retrievers Respect Emotion? Measuring and Improving Emotional Consistency in Retrieval\" (Islam Sadat and Samir Kechid). The EmpatheticDialogues and ESConv corpora are not redistributed; a script downloads them from their official sources.",
+  "upload_type": "software",
+  "creators": [
+    {"name": "Sadat, Islam", "affiliation": "LRIA, University of Science and Technology Houari Boumediene (USTHB)"},
+    {"name": "Kechid, Samir", "affiliation": "LRIA, University of Science and Technology Houari Boumediene (USTHB)"}
+  ],
+  "license": "MIT",
+  "keywords": ["information retrieval", "dense retrieval", "emotion", "affective computing", "empathetic dialogue"],
+  "access_right": "open"
+}
