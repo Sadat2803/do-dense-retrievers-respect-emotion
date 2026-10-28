@@ -9,6 +9,7 @@ authors:
     given-names: Samir
     affiliation: "LRIA, University of Science and Technology Houari Boumediene (USTHB)"
 version: 1.0.0
+doi: 10.5281/zenodo.23730675
 date-released: 2026-10-28
 license: MIT
 keywords:

@@ -1,5 +1,7 @@
 # Do Dense Retrievers Respect Emotion?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23730675.svg)](https://doi.org/10.5281/zenodo.23730675)
+
 Code and results for the paper **"Do Dense Retrievers Respect Emotion? Measuring and Improving Emotional
 Consistency in Retrieval"** by Islam Sadat and Samir Kechid (LRIA, USTHB, Algiers).
 
@@ -58,4 +60,4 @@ Code: MIT (see `LICENSE`). Result files: CC BY 4.0.
 
 ## Citation
 
-See `CITATION.cff`. The paper is under review; the reference will be updated on publication.
+Archived version: DOI [10.5281/zenodo.23730675](https://doi.org/10.5281/zenodo.23730675). See `CITATION.cff`. The paper is under review; the reference will be updated on publication.
